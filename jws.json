@@ -1,0 +1,8 @@
+{
+    "kty": "RSA",
+    "n": "t4XZpX0lTuVGJ52ApFilgA7-DyRCyX0OFZBeqtDpBbzmTrEDuMibPEkzUKoLBf3fFZ9YW5TgzkVyOlhcHKhTHQ",
+    "e": "AQAB",
+    "alg": "RS256",
+    "kid": "irvintest",
+    "use": "sig"
+}
